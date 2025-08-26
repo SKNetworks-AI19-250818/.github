@@ -15,3 +15,4 @@
 
 |챕터|Repository|
 |------|---|
+|Python|[Python Repository](https://github.com/SKNetworks-AI19-250818/python_basic.git) |
