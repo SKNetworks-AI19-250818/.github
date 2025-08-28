@@ -15,4 +15,5 @@
 
 |챕터|Repository|
 |------|---|
-|Python|[Python Repository](https://github.com/SKNetworks-AI19-250818/python_basic.git) |
+|Python|[Python Repository](https://github.com/SKNetworks-AI19-250818/01_python_basic.git) |
+|Database|[Database Repository](https://github.com/SKNetworks-AI19-250818/02_database.git) |
