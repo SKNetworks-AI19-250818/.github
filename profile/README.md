@@ -20,3 +20,4 @@
 |Web Crawling|[Web Crawling Repository](https://github.com/SKNetworks-AI19-250818/03_web_crawling.git) |
 |Data Analysis|[Data Analysis Repository](https://github.com/SKNetworks-AI19-250818/04_data_analysis.git) |
 |Machine Learning|[Machine Learning Repository](https://github.com/SKNetworks-AI19-250818/05_ml-workspace.git) |
+|Deep Learning|[Deep Learning Repository](https://github.com/SKNetworks-AI19-250818/06_deep_learning_basic.git) |
